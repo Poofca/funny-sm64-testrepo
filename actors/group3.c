@@ -13,3 +13,8 @@ UNUSED static const u64 binid_0 = 0;
 
 #include "water_bubble/model.inc.c"
 UNUSED static const u64 binid_1 = 1;
+
+#include "snowman/model.inc.c"
+#include "snowman/anims/data.inc.c"
+#include "snowman/anims/table.inc.c"
+UNUSED static const u64 binid_2 = 2;

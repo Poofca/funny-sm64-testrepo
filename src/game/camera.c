@@ -3225,6 +3225,7 @@ void init_camera(struct Camera *c) {
     marioOffset[0] = 0.f;
     marioOffset[1] = 125.f;
     marioOffset[2] = 400.f;
+    s8DirModeBaseYaw = gMarioSpawnInfo->startAngle[1] + 0x8000;
 
     // Set the camera's starting position or start a cutscene for certain levels
     switch (gCurrLevelNum) {

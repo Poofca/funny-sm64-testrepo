@@ -17,3 +17,8 @@ UNUSED static const u64 binid_0 = 0;
 #include "moneybag/anims/data.inc.c"
 #include "moneybag/anims/table.inc.c"
 UNUSED static const u64 binid_1 = 1;
+
+#include "heave_ho/model.inc.c"
+#include "heave_ho/anims/data.inc.c"
+#include "heave_ho/anims/table.inc.c"
+UNUSED static const u64 binid_2 = 2;

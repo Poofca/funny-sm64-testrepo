@@ -260,7 +260,7 @@
 // ddd
 #define MODEL_DDD_BOWSER_SUB_DOOR                 0x36        // ddd_geo_000478
 #define MODEL_DDD_BOWSER_SUB                      0x37        // ddd_geo_0004A0
-#define MODEL_DDD_POLE                            0x38        // ddd_geo_000450
+#define MODEL_DDD_POLE                            0x39        // ddd_geo_000450
 
 // wf
 #define MODEL_WF_BREAKABLE_WALL_RIGHT             0x36        // wf_geo_000B78
@@ -353,8 +353,8 @@
 
 // group 7
 #define MODEL_SPINDRIFT                   0x54        // spindrift_geo
-#define MODEL_MR_BLIZZARD_HIDDEN          0x55        // mr_blizzard_hidden_geo
-#define MODEL_MR_BLIZZARD                 0x56        // mr_blizzard_geo
+#define MODEL_MR_BLIZZARD_HIDDEN          0xFF        // mr_blizzard_hidden_geo
+#define MODEL_MR_BLIZZARD                 0xFE        // mr_blizzard_geo
 #define MODEL_PENGUIN                     0x57        // penguin_geo
 
 // group 8

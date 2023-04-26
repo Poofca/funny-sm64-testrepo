@@ -9,3 +9,4 @@
 
 #include "chillychief/geo.inc.c"
 #include "moneybag/geo.inc.c"
+#include "heave_ho/geo.inc.c"

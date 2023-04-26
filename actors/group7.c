@@ -16,8 +16,3 @@ UNUSED static const u64 binid_0 = 0;
 #include "penguin/anims/table.inc.c"
 #include "penguin/collision.inc.c"
 UNUSED static const u64 binid_1 = 1;
-
-#include "snowman/model.inc.c"
-#include "snowman/anims/data.inc.c"
-#include "snowman/anims/table.inc.c"
-UNUSED static const u64 binid_2 = 2;
